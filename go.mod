@@ -36,7 +36,7 @@ require (
 	github.com/moby/buildkit v0.8.1
 	github.com/open-policy-agent/opa v0.25.2
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.2-0.20190823105129-775207bd45b6
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/saracen/walker v0.0.0-20191201085201-324a081bae7e
 	github.com/sirupsen/logrus v1.8.0 // indirect
 	github.com/sosedoff/gitkit v0.2.0
